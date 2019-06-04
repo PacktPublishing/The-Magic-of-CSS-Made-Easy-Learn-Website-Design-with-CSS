@@ -14,11 +14,11 @@ Learn with our proven instructional style, where we don't waste your time typing
 <DIV class=book-info-will-learn-text>
 <UL>
 <LI> Create amazing web designs </LI>
-<LI> Use CSS to apply effects to HTML code <LI>
-<LI> Understand CSS syntax <LI>
-<LI> Learn how to apply CSS <LI>
-<LI> Better design with CSS <LI>
-<LI> Master best practices for web design <LI>
+<LI> Use CSS to apply effects to HTML code </LI>
+<LI> Understand CSS syntax </LI>
+<LI> Learn how to apply CSS </LI>
+<LI> Better design with CSS </LI>
+<LI> Master best practices for web design </LI>
 </UL></DIV>
 
 ## Instructions and Navigation
